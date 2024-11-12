@@ -1,0 +1,34 @@
+.tables {
+  background-color: grey;
+  width: 80%;
+  width: 350px;
+  margin: 0 auto;
+  margin-top: 300px;
+  font-family: sans-serif;
+  padding: 15px;
+  border-radius: 10px;
+  .table {
+    padding: 10px;
+    border: 1px solid white;
+    color: white;
+  }
+}
+.table{
+
+    border-collapse: collapse;
+}
+.table tr th{
+    padding: 10px;
+}
+.del-btn {
+  background-color: gray;
+  color: white;
+}
+.edit-btn {
+  background-color: gray;
+  color: white;
+}
+
+tbody tr td {
+    padding: 10px;
+}
